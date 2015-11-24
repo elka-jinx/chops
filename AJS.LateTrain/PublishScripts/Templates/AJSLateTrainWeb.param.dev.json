@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "AJSLateTrainWeb"
+  },
+  "hostingPlanName": {
+    "value": "AJS.Test.AppPlan"
+  },
+  "siteLocation": {
+    "value": "West Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "fca32412-1357-4d0a-b214-50954d4dbd22"
+  },
+  "resourceGroup": {
+    "value": "AJS.Test.ResGroup"
+  }
+}
