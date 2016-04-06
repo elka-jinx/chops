@@ -3,9 +3,9 @@
 // gulp configuration is in files in ./build directory
 require('require-dir')('build/tasks');
 
-var
-  watch = require('semantic/tasks/watch'),
-  build = require('semantic/tasks/build')
-;
-gulp.task('watch ui', watch);
-gulp.task('build ui', watch);
+//var
+//  watch = require('semantic/tasks/watch'),
+//  build = require('semantic/tasks/build')
+//;
+//gulp.task('watch ui', watch);
+//gulp.task('build ui', watch);

@@ -4,6 +4,7 @@ define(["require", "exports", 'bootstrap'], function (require, exports) {
         aurelia.use
             .standardConfiguration()
             .developmentLogging();
+        aurelia.use.plugin('aurelia-animator-css');
         aurelia.start().then(function () { return aurelia.setRoot(); });
     }
     exports.configure = configure;
